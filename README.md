@@ -8,4 +8,4 @@ I want to address any concerns about the legitimacy of this software. OpenResize
 
 > "In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software." - [MIT License](https://opensource.org/licenses/MIT)
 
-If you have any questions or concerns about OpenResize, feel free to contact me through appropriate channels. We appreciate your understanding and cooperation.
+If you have any questions or concerns about OpenResize, feel free to contact me through appropriate channels. I appreciate your understanding and cooperation.
