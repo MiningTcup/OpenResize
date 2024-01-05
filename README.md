@@ -4,4 +4,8 @@ Have you ever wanted to resize a window that shouldn't be resized? Want no longe
 # OpenResize Helper
 Do you love OpenResize and want to have it forever? Simply run **OpenResize Helper** in the same folder as OpenResize, and all your dreams will come true! Using the Task Scheduler, OpenResize will now start whenever your computer does.
 # Virus
-I'm sure there are going to be some ****ers out there who claim this is a virus. It's under an MIT license, and, if you had more than 7 brain cells, you would compile it yourself. I don't care. **DO NOT** contact me about OpenResize being a virus. Instead, go **** yourself.
+I want to address any concerns about the legitimacy of this software. OpenResize is distributed under the MIT license, and I encourage users to review the source code and compile it themselves for assurance.
+
+> "In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software." - [MIT License](https://opensource.org/licenses/MIT)
+
+If you have any questions or concerns about OpenResize, feel free to contact me through appropriate channels. We appreciate your understanding and cooperation.
