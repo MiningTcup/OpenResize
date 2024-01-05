@@ -2,7 +2,7 @@
 ### The only open-source window resize-enabler for Windows!
 Have you ever wanted to resize a window that shouldn't be resized? Want no longer, for now, you can, with **OpenResize**! Simply run the file and, until you sign out, you will be able to resize any window you please. Note that to resize windows that have administrator you will need to run OpenResize as administrator.
 # OpenResize Helper
-Do you love OpenResize and want to have it forever? Simply run **OpenResize Helper** in the same folder as OpenResize, and all your dreams will come true! Using the Task Scheduler, OpenResize will now start whenever your computer does.
+Do you love OpenResize and want to have it forever? Simply run **OpenResize Helper** in the same folder as OpenResize, and all your dreams will come true! Using the Task Scheduler, OpenResize will now start whenever your computer does. Make sure to unzip before using.
 # Malware
 I want to address any concerns about the legitimacy of this software. OpenResize is distributed under the MIT license, and I encourage users to review the source code and compile it themselves for assurance.
 
