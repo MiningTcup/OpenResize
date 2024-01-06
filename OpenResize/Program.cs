@@ -62,11 +62,10 @@ namespace ResizableAppWatcher
                     if (hWnd != IntPtr.Zero && !AreWindowButtonsEnabled(hWnd))
                     {
                         MakeWindowResizable(hWnd);
-                        Console.WriteLine($"{process.ProcessName} is now resizable!");
                     }
                 }
 
-                Thread.Sleep(5000); // Check every 5 seconds (adjust as needed)
+                Thread.Sleep(5000);
             }
         }
 
